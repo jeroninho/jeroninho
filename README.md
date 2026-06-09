@@ -18,7 +18,7 @@ Building scalable backend systems, AI-powered applications and intelligent autom
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jeroninho">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/jeroninho?label=Followers&style=social" />
   </a>
 </p>
 
@@ -111,9 +111,9 @@ Building scalable backend systems, AI-powered applications and intelligent autom
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeroninho&show_icons=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeroninho&layout=compact&theme=transparent"/>
 
 </div>
 
@@ -123,7 +123,7 @@ Building scalable backend systems, AI-powered applications and intelligent autom
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeroninho&theme=transparent"/>
 
 </div>
 
@@ -133,7 +133,7 @@ Building scalable backend systems, AI-powered applications and intelligent autom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jeronhinho&theme=flat&no-frame=true&margin-w=15"/>
 
 </div>
 
